@@ -1,5 +1,6 @@
 import React from 'react'
 import Button from './Button'
+import Cryptocards from './Cryptocards'
 
 
 function Crypto() {
@@ -17,6 +18,8 @@ function Crypto() {
     <div className='my-10 sm:w-[16%] w-[100%]  sm:text-[1.1rem] text-[1rem] sm:mx-auto'>
     <Button data={'LEARN ABOUT US'}/>
     </div>
+
+    <Cryptocards/>
 </div>
   )
 }

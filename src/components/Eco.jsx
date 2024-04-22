@@ -2,7 +2,7 @@ import React from 'react'
 import Button from './Button'
 
 
-function Eco() { b
+function Eco() { 
   const cards = [{
 
   }]
